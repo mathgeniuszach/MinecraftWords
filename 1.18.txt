@@ -607,7 +607,6 @@ Leather Pants
 Leather Tunic
 Lectern
 Lever
-Light Block
 Light Blue Banner
 Light Blue Bed
 Light Blue Candle
