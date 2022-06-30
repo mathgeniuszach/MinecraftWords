@@ -1,0 +1,1261 @@
+Acacia Boat
+Acacia Button
+Acacia Door
+Acacia Fence
+Acacia Fence Gate
+Acacia Leaves
+Acacia Log
+Acacia Planks
+Acacia Pressure Plate
+Acacia Sapling
+Acacia Sign
+Acacia Slab
+Acacia Stairs
+Acacia Trapdoor
+Acacia Wood
+Activator Rail
+Allium
+Amethyst Cluster
+Amethyst Shard
+Ancient Debris
+Andesite
+Andesite Slab
+Andesite Stairs
+Andesite Wall
+Anvil
+Apple
+Aqua Affinity
+Armor Stand
+Arrow
+Axolotl
+Azalea
+Azalea Leaves
+Azure Bluet
+Badlands
+Badlands Plateau
+Baked Potato
+Bamboo
+Bamboo Jungle
+Bamboo Jungle Hills
+Bamboo Shoot
+Bane of Arthropods
+Barrel
+Barrier
+Basalt
+Basalt Deltas
+Bastion Remnant
+Bat
+Beach
+Beacon
+Bedrock
+Bee
+Bee Nest
+Beehive
+Beetroot
+Beetroot Seeds
+Beetroot Soup
+Beetroots
+Bell
+Big Dripleaf
+Birch Boat
+Birch Button
+Birch Door
+Birch Fence
+Birch Fence Gate
+Birch Forest
+Birch Forest Hills
+Birch Leaves
+Birch Log
+Birch Planks
+Birch Pressure Plate
+Birch Sapling
+Birch Sign
+Birch Slab
+Birch Stairs
+Birch Trapdoor
+Birch Wood
+Black Banner
+Black Bed
+Black Candle
+Black Carpet
+Black Concrete
+Black Concrete Powder
+Black Dye
+Black Glazed Terracotta
+Black Shulker Box
+Black Stained Glass
+Black Stained Glass Pane
+Black Terracotta
+Black Wool
+Blackstone
+Blackstone Slab
+Blackstone Stairs
+Blackstone Wall
+Blast Furnace
+Blast Protection
+Blaze
+Blaze Powder
+Blaze Rod
+Block of Amethyst
+Block of Coal
+Block of Copper
+Block of Diamond
+Block of Emerald
+Block of Gold
+Block of Iron
+Block of Lapis Lazuli
+Block of Netherite
+Block of Quartz
+Block of Raw Copper
+Block of Raw Gold
+Block of Raw Iron
+Block of Redstone
+Blue Banner
+Blue Bed
+Blue Candle
+Blue Carpet
+Blue Concrete
+Blue Concrete Powder
+Blue Dye
+Blue Glazed Terracotta
+Blue Ice
+Blue Orchid
+Blue Shulker Box
+Blue Stained Glass
+Blue Stained Glass Pane
+Blue Terracotta
+Blue Wool
+Bone
+Bone Block
+Bone Meal
+Book
+Book and Quill
+Bookshelf
+Bow
+Bowl
+Brain Coral
+Brain Coral Block
+Brain Coral Fan
+Bread
+Brewing Stand
+Brick
+Brick Slab
+Brick Stairs
+Brick Wall
+Bricks
+Brown Banner
+Brown Bed
+Brown Candle
+Brown Carpet
+Brown Concrete
+Brown Concrete Powder
+Brown Dye
+Brown Glazed Terracotta
+Brown Mushroom
+Brown Mushroom Block
+Brown Shulker Box
+Brown Stained Glass
+Brown Stained Glass Pane
+Brown Terracotta
+Brown Wool
+Bubble Coral
+Bubble Coral Block
+Bubble Coral Fan
+Bucket
+Bucket of Axolotl
+Bucket of Cod
+Bucket of Pufferfish
+Bucket of Salmon
+Bucket of Tadpole
+Budding Amethyst
+Bundle
+Buried Treasure
+Cactus
+Cake
+Calcite
+Campfire
+Candle
+Carrot
+Carrot on a Stick
+Carrots
+Cartography Table
+Carved Pumpkin
+Cat
+Cauldron
+Cave Spider
+Cave Vines
+Chain
+Chainmail Boots
+Chainmail Chestplate
+Chainmail Helmet
+Chainmail Leggings
+Channeling
+Charcoal
+Chest
+Chicken
+Chipped Anvil
+Chiseled Deepslate
+Chiseled Nether Bricks
+Chiseled Polished Blackstone
+Chiseled Quartz Block
+Chiseled Red Sandstone
+Chiseled Sandstone
+Chiseled Stone Bricks
+Chorus Flower
+Chorus Fruit
+Chorus Plant
+Clay
+Clay Ball
+Clock
+Coal
+Coal Ore
+Coarse Dirt
+Cobbled Deepslate
+Cobbled Deepslate Slab
+Cobbled Deepslate Stairs
+Cobbled Deepslate Wall
+Cobblestone
+Cobblestone Slab
+Cobblestone Stairs
+Cobblestone Wall
+Cobweb
+Cocoa
+Cocoa Beans
+Cod
+Cold Ocean
+Command Block
+Compass
+Composter
+Conduit
+Cooked Chicken
+Cooked Cod
+Cooked Mutton
+Cooked Porkchop
+Cooked Rabbit
+Cooked Salmon
+Cookie
+Copper Ingot
+Copper Ore
+Cornflower
+Cow
+Cracked Deepslate Bricks
+Cracked Deepslate Tiles
+Cracked Nether Bricks
+Cracked Polished Blackstone Bricks
+Cracked Stone Bricks
+Crafting Table
+Creeper
+Creeper Head
+Crimson Button
+Crimson Door
+Crimson Fence
+Crimson Fence Gate
+Crimson Forest
+Crimson Fungus
+Crimson Hyphae
+Crimson Nylium
+Crimson Planks
+Crimson Pressure Plate
+Crimson Roots
+Crimson Sign
+Crimson Slab
+Crimson Stairs
+Crimson Stem
+Crimson Trapdoor
+Crossbow
+Crying Obsidian
+Curse of Binding
+Curse of Vanishing
+Cut Copper
+Cut Copper Slab
+Cut Copper Stairs
+Cut Red Sandstone
+Cut Red Sandstone Slab
+Cut Sandstone
+Cut Sandstone Slab
+Cyan Banner
+Cyan Bed
+Cyan Candle
+Cyan Carpet
+Cyan Concrete
+Cyan Concrete Powder
+Cyan Dye
+Cyan Glazed Terracotta
+Cyan Shulker Box
+Cyan Stained Glass
+Cyan Stained Glass Pane
+Cyan Terracotta
+Cyan Wool
+Damaged Anvil
+Dandelion
+Dark Forest
+Dark Forest Hills
+Dark Oak Boat
+Dark Oak Button
+Dark Oak Door
+Dark Oak Fence
+Dark Oak Fence Gate
+Dark Oak Leaves
+Dark Oak Log
+Dark Oak Planks
+Dark Oak Pressure Plate
+Dark Oak Sapling
+Dark Oak Sign
+Dark Oak Slab
+Dark Oak Stairs
+Dark Oak Trapdoor
+Dark Oak Wood
+Dark Prismarine
+Dark Prismarine Slab
+Dark Prismarine Stairs
+Daylight Detector
+Dead Brain Coral
+Dead Brain Coral Block
+Dead Brain Coral Fan
+Dead Bubble Coral
+Dead Bubble Coral Block
+Dead Bubble Coral Fan
+Dead Bush
+Dead Fire Coral
+Dead Fire Coral Block
+Dead Fire Coral Fan
+Dead Horn Coral
+Dead Horn Coral Block
+Dead Horn Coral Fan
+Dead Tube Coral
+Dead Tube Coral Block
+Dead Tube Coral Fan
+Deep Cold Ocean
+Deep Frozen Ocean
+Deep Lukewarm Ocean
+Deep Ocean
+Deep Warm Ocean
+Deepslate
+Deepslate Brick Slab
+Deepslate Brick Stairs
+Deepslate Brick Wall
+Deepslate Bricks
+Deepslate Coal Ore
+Deepslate Copper Ore
+Deepslate Diamond Ore
+Deepslate Emerald Ore
+Deepslate Gold Ore
+Deepslate Iron Ore
+Deepslate Lapis Lazuli Ore
+Deepslate Redstone Ore
+Deepslate Tile Slab
+Deepslate Tile Stairs
+Deepslate Tile Wall
+Deepslate Tiles
+Depth Strider
+Desert
+Desert Hills
+Desert Lakes
+Desert Pyramid
+Detector Rail
+Diamond
+Diamond Axe
+Diamond Boots
+Diamond Chestplate
+Diamond Helmet
+Diamond Hoe
+Diamond Horse Armor
+Diamond Leggings
+Diamond Ore
+Diamond Pickaxe
+Diamond Shovel
+Diamond Sword
+Diorite
+Diorite Slab
+Diorite Stairs
+Diorite Wall
+Dirt
+Dirt Path
+Dispenser
+Dolphin
+Donkey
+Dragon Egg
+Dragon Head
+Dried Kelp
+Dried Kelp Block
+Dripstone Block
+Dropper
+Drowned
+Echo Shard
+Efficiency
+Egg
+Elder Guardian
+Elytra
+Emerald
+Emerald Ore
+Empty Map
+Enchanted Book
+Enchanted Golden Apple
+Enchanting Table
+End City
+End Crystal
+End Portal Frame
+End Rod
+End Stone
+End Stone Brick Slab
+End Stone Brick Stairs
+End Stone Brick Wall
+End Stone Bricks
+Ender Chest
+Ender Dragon
+Ender Pearl
+Enderman
+Endermite
+Eroded Badlands
+Evoker
+Experience Orb
+Exposed Copper
+Exposed Cut Copper
+Exposed Cut Copper Slab
+Exposed Cut Copper Stairs
+Eye of Ender
+Falling Block
+Feather
+Feather Falling
+Fermented Spider Eye
+Fern
+Fire
+Fire Aspect
+Fire Charge
+Fire Coral
+Fire Coral Block
+Fire Coral Fan
+Fire Protection
+Fireball
+Firework Rocket
+Firework Star
+Fishing Rod
+Flame
+Fletching Table
+Flint
+Flint and Steel
+Flower Forest
+Flower Pot
+Flowering Azalea
+Flowering Azalea Leaves
+Forest
+Fortune
+Fox
+Frogspawn
+Frost Walker
+Frozen Ocean
+Frozen River
+Furnace
+Ghast
+Ghast Tear
+Giant
+Giant Spruce Taiga
+Giant Spruce Taiga Hills
+Giant Tree Taiga
+Giant Tree Taiga Hills
+Gilded Blackstone
+Glass
+Glass Bottle
+Glass Pane
+Glistering Melon Slice
+Glow Berries
+Glow Ink Sac
+Glow Item Frame
+Glow Lichen
+Glow Squid
+Glowstone
+Glowstone Dust
+Goat
+Goat Horn‌
+Gold Ingot
+Gold Nugget
+Gold Ore
+Golden Apple
+Golden Axe
+Golden Boots
+Golden Carrot
+Golden Chestplate
+Golden Helmet
+Golden Hoe
+Golden Horse Armor
+Golden Leggings
+Golden Pickaxe
+Golden Shovel
+Golden Sword
+Granite
+Granite Slab
+Granite Stairs
+Granite Wall
+Grass
+Grass Block
+Gravel
+Gravelly Mountains
+Gray Banner
+Gray Bed
+Gray Candle
+Gray Carpet
+Gray Concrete
+Gray Concrete Powder
+Gray Dye
+Gray Glazed Terracotta
+Gray Shulker Box
+Gray Stained Glass
+Gray Stained Glass Pane
+Gray Terracotta
+Gray Wool
+Green Banner
+Green Bed
+Green Candle
+Green Carpet
+Green Concrete
+Green Concrete Powder
+Green Dye
+Green Glazed Terracotta
+Green Shulker Box
+Green Stained Glass
+Green Stained Glass Pane
+Green Terracotta
+Green Wool
+Grindstone
+Guardian
+Gunpowder
+Hanging Roots
+Hay Bale
+Heart of the Sea
+Heavy Weighted Pressure Plate
+Hoglin
+Honey Block
+Honey Bottle
+Honeycomb
+Honeycomb Block
+Hopper
+Horn Coral
+Horn Coral Block
+Horn Coral Fan
+Horse
+Husk
+Ice
+Ice Spikes
+Igloo
+Illusioner
+Impaling
+Infested Chiseled Stone Bricks
+Infested Cobblestone
+Infested Cracked Stone Bricks
+Infested Deepslate
+Infested Mossy Stone Bricks
+Infested Stone
+Infested Stone Bricks
+Infinity
+Ink Sac
+Iron Axe
+Iron Bars
+Iron Boots
+Iron Chestplate
+Iron Door
+Iron Golem
+Iron Helmet
+Iron Hoe
+Iron Horse Armor
+Iron Ingot
+Iron Leggings
+Iron Nugget
+Iron Ore
+Iron Pickaxe
+Iron Shovel
+Iron Sword
+Iron Trapdoor
+Item Frame
+Jigsaw Block
+Jukebox
+Jungle
+Jungle Boat
+Jungle Button
+Jungle Door
+Jungle Edge
+Jungle Fence
+Jungle Fence Gate
+Jungle Hills
+Jungle Leaves
+Jungle Log
+Jungle Planks
+Jungle Pressure Plate
+Jungle Pyramid
+Jungle Sapling
+Jungle Sign
+Jungle Slab
+Jungle Stairs
+Jungle Trapdoor
+Jungle Wood
+Kelp
+Knockback
+Knowledge Book‌
+Ladder
+Lantern
+Lapis Lazuli
+Lapis Lazuli Ore
+Large Amethyst Bud
+Large Fern
+Lava
+Lava Bucket
+Lead
+Leather
+Leather Boots
+Leather Cap
+Leather Horse Armor
+Leather Pants
+Leather Tunic
+Lectern
+Lever
+Light Block
+Light Blue Banner
+Light Blue Bed
+Light Blue Candle
+Light Blue Carpet
+Light Blue Concrete
+Light Blue Concrete Powder
+Light Blue Dye
+Light Blue Glazed Terracotta
+Light Blue Shulker Box
+Light Blue Stained Glass
+Light Blue Stained Glass Pane
+Light Blue Terracotta
+Light Blue Wool
+Light Gray Banner
+Light Gray Bed
+Light Gray Candle
+Light Gray Carpet
+Light Gray Concrete
+Light Gray Concrete Powder
+Light Gray Dye
+Light Gray Glazed Terracotta
+Light Gray Shulker Box
+Light Gray Stained Glass
+Light Gray Stained Glass Pane
+Light Gray Terracotta
+Light Gray Wool
+Light Weighted Pressure Plate
+Lightning Bolt
+Lightning Rod
+Lilac
+Lily of the Valley
+Lily Pad
+Lime Banner
+Lime Bed
+Lime Candle
+Lime Carpet
+Lime Concrete
+Lime Concrete Powder
+Lime Dye
+Lime Glazed Terracotta
+Lime Shulker Box
+Lime Stained Glass
+Lime Stained Glass Pane
+Lime Terracotta
+Lime Wool
+Lingering Potion
+Llama
+Lodestone
+Loom
+Looting
+Loyalty
+Luck of the Sea
+Lukewarm Ocean
+Lure
+Magenta Banner
+Magenta Bed
+Magenta Candle
+Magenta Carpet
+Magenta Concrete
+Magenta Concrete Powder
+Magenta Dye
+Magenta Glazed Terracotta
+Magenta Shulker Box
+Magenta Stained Glass
+Magenta Stained Glass Pane
+Magenta Terracotta
+Magenta Wool
+Magma Block
+Magma Cream
+Magma Cube
+Mangrove Boat
+Mangrove Button
+Mangrove Door
+Mangrove Fence
+Mangrove Fence Gate
+Mangrove Leaves
+Mangrove Log
+Mangrove Planks
+Mangrove Pressure Plate
+Mangrove Propagule
+Mangrove Roots
+Mangrove Sign
+Mangrove Slab
+Mangrove Stairs
+Mangrove Trapdoor
+Mangrove Wood
+Map or Explorer Map
+Medium Amethyst Bud
+Melon
+Melon Seeds
+Melon Slice
+Melon Stem
+Mending
+Milk Bucket
+Minecart
+Mineshaft
+Modified Jungle
+Modified Jungle Edge
+Mooshroom
+Moss Block
+Moss Carpet
+Mossy Cobblestone
+Mossy Cobblestone Slab
+Mossy Cobblestone Stairs
+Mossy Cobblestone Wall
+Mossy Stone Brick Slab
+Mossy Stone Brick Stairs
+Mossy Stone Brick Wall
+Mossy Stone Bricks
+Mountain Edge
+Mountains
+Mud
+Mud Brick Slab
+Mud Brick Stairs
+Mud Brick Wall
+Mud Bricks
+Muddy Mangrove Roots
+Mule
+Multishot
+Mushroom Field Shore
+Mushroom Fields
+Mushroom Stem
+Mushroom Stew
+Music Disc 11
+Music Disc 13
+Music Disc 5
+Music Disc Blocks
+Music Disc Cat
+Music Disc Chirp
+Music Disc Far
+Music Disc Mall
+Music Disc Mellohi
+Music Disc Otherside
+Music Disc Pigstep
+Music Disc Stal
+Music Disc Strad
+Music Disc Wait
+Music Disc Ward
+Mycelium
+Name Tag
+Nautilus Shell
+Nether Brick
+Nether Brick Fence
+Nether Brick Slab
+Nether Brick Stairs
+Nether Brick Wall
+Nether Bricks
+Nether Fortress
+Nether Fossil
+Nether Gold Ore
+Nether Quartz
+Nether Quartz Ore
+Nether Reactor Core‌[Bedrock Edition only]
+Nether Sprouts
+Nether Star
+Nether Wart
+Nether Wart Block
+Nether Wastes
+Netherite Axe
+Netherite Boots
+Netherite Chestplate
+Netherite Helmet
+Netherite Hoe
+Netherite Ingot
+Netherite Leggings
+Netherite Pickaxe
+Netherite Scrap
+Netherite Shovel
+Netherite Sword
+Netherrack
+Note Block
+Oak Boat
+Oak Button
+Oak Door
+Oak Fence
+Oak Fence Gate
+Oak Leaves
+Oak Log
+Oak Planks
+Oak Pressure Plate
+Oak Sapling
+Oak Sign
+Oak Slab
+Oak Stairs
+Oak Trapdoor
+Oak Wood
+Observer
+Obsidian
+Ocean
+Ocean Monument
+Ocean Ruins
+Ocelot
+Ochre Froglight
+Ominous Banner
+Orange Banner
+Orange Bed
+Orange Candle
+Orange Carpet
+Orange Concrete
+Orange Concrete Powder
+Orange Dye
+Orange Glazed Terracotta
+Orange Shulker Box
+Orange Stained Glass
+Orange Stained Glass Pane
+Orange Terracotta
+Orange Tulip
+Orange Wool
+Overworld
+Oxeye Daisy
+Oxidized Copper
+Oxidized Cut Copper
+Oxidized Cut Copper Slab
+Oxidized Cut Copper Stairs
+Packed Ice
+Packed Mud
+Painting
+Panda
+Paper
+Parrot
+Pearlescent Froglight
+Peony
+Petrified Oak Slab
+Phantom
+Phantom Membrane
+Piercing
+Pig
+Piglin
+Piglin Brute
+Pillager
+Pillager Outpost
+Pink Banner
+Pink Bed
+Pink Candle
+Pink Carpet
+Pink Concrete
+Pink Concrete Powder
+Pink Dye
+Pink Glazed Terracotta
+Pink Shulker Box
+Pink Stained Glass
+Pink Stained Glass Pane
+Pink Terracotta
+Pink Tulip
+Pink Wool
+Piston
+Plains
+Player Head
+Podzol
+Pointed Dripstone
+Poisonous Potato
+Polar Bear
+Polished Andesite
+Polished Andesite Slab
+Polished Andesite Stairs
+Polished Basalt
+Polished Blackstone
+Polished Blackstone Brick Slab
+Polished Blackstone Brick Stairs
+Polished Blackstone Brick Wall
+Polished Blackstone Bricks
+Polished Blackstone Button
+Polished Blackstone Pressure Plate
+Polished Blackstone Slab
+Polished Blackstone Stairs
+Polished Blackstone Wall
+Polished Deepslate
+Polished Deepslate Slab
+Polished Deepslate Stairs
+Polished Deepslate Wall
+Polished Diorite
+Polished Diorite Slab
+Polished Diorite Stairs
+Polished Granite
+Polished Granite Slab
+Polished Granite Stairs
+Popped Chorus Fruit
+Poppy
+Potato
+Potatoes
+Potion
+Potions
+Powder Snow
+Powder Snow Bucket
+Power
+Powered Rail
+Prismarine
+Prismarine Brick Slab
+Prismarine Brick Stairs
+Prismarine Bricks
+Prismarine Crystals
+Prismarine Shard
+Prismarine Slab
+Prismarine Stairs
+Prismarine Wall
+Projectile Protection
+Protection
+Pufferfish
+Pumpkin
+Pumpkin Pie
+Pumpkin Seeds
+Pumpkin Stem
+Punch
+Purple Banner
+Purple Bed
+Purple Candle
+Purple Carpet
+Purple Concrete
+Purple Concrete Powder
+Purple Dye
+Purple Glazed Terracotta
+Purple Shulker Box
+Purple Stained Glass
+Purple Stained Glass Pane
+Purple Terracotta
+Purple Wool
+Purpur Block
+Purpur Pillar
+Purpur Slab
+Purpur Stairs
+Quartz Bricks
+Quartz Pillar
+Quartz Slab
+Quartz Stairs
+Quick Charge
+Rabbit
+Rabbit Hide
+Rabbit Stew
+Rail
+Ravager
+Raw Beef
+Raw Chicken
+Raw Cod
+Raw Copper
+Raw Gold
+Raw Iron
+Raw Mutton
+Raw Porkchop
+Raw Rabbit
+Raw Salmon
+Recovery Compass
+Red Banner
+Red Bed
+Red Candle
+Red Carpet
+Red Concrete
+Red Concrete Powder
+Red Dye
+Red Glazed Terracotta
+Red Mushroom
+Red Mushroom Block
+Red Nether Brick Slab
+Red Nether Brick Stairs
+Red Nether Brick Wall
+Red Nether Bricks
+Red Sand
+Red Sandstone
+Red Sandstone Slab
+Red Sandstone Stairs
+Red Sandstone Wall
+Red Shulker Box
+Red Stained Glass
+Red Stained Glass Pane
+Red Terracotta
+Red Tulip
+Red Wool
+Redstone Comparator
+Redstone Dust
+Redstone Lamp
+Redstone Ore
+Redstone Repeater
+Redstone Torch
+Redstone Wire
+Reinforced Deepslate
+Respawn Anchor
+Respiration
+Riptide
+River
+Rooted Dirt
+Rose Bush
+Rotten Flesh
+Ruined Portal
+Saddle
+Salmon
+Sand
+Sandstone
+Sandstone Slab
+Sandstone Stairs
+Sandstone Wall
+Savanna
+Savanna Plateau
+Scaffolding
+Sculk
+Sculk Catalyst
+Sculk Sensor
+Sculk Shrieker
+Sculk Vein
+Scute
+Sea Lantern
+Sea Pickle
+Seagrass
+Sharpness
+Shattered Savanna
+Shattered Savanna Plateau
+Shears
+Sheep
+Shield
+Shipwreck
+Shroomlight
+Shulker
+Shulker Box
+Shulker Shell
+Silk Touch
+Silverfish
+Skeleton
+Skeleton Horse
+Skeleton Skull
+Slime
+Slime Block
+Slimeball
+Small Amethyst Bud
+Small Dripleaf
+Smite
+Smithing Table
+Smoker
+Smooth Basalt
+Smooth Quartz Block
+Smooth Quartz Slab
+Smooth Quartz Stairs
+Smooth Red Sandstone
+Smooth Red Sandstone Slab
+Smooth Red Sandstone Stairs
+Smooth Sandstone
+Smooth Sandstone Slab
+Smooth Sandstone Stairs
+Smooth Stone
+Smooth Stone Slab
+Snow
+Snow Block
+Snow Golem
+Snowball
+Snowy Beach
+Snowy Mountains
+Snowy Taiga
+Snowy Taiga Hills
+Snowy Taiga Mountains
+Snowy Tundra
+Soul Campfire
+Soul Fire
+Soul Lantern
+Soul Sand
+Soul Sand Valley
+Soul Soil
+Soul Speed
+Soul Torch
+Spawner
+Spectral Arrow‌
+Spider
+Spider Eye
+Splash Potion
+Sponge
+Spore Blossom
+Spruce Boat
+Spruce Button
+Spruce Door
+Spruce Fence
+Spruce Fence Gate
+Spruce Leaves
+Spruce Log
+Spruce Planks
+Spruce Pressure Plate
+Spruce Sapling
+Spruce Sign
+Spruce Slab
+Spruce Stairs
+Spruce Trapdoor
+Spruce Wood
+Spyglass
+Squid
+Steak
+Stick
+Sticky Piston
+Stone
+Stone Axe
+Stone Brick Slab
+Stone Brick Stairs
+Stone Brick Wall
+Stone Bricks
+Stone Button
+Stone Hoe
+Stone Pickaxe
+Stone Pressure Plate
+Stone Shore
+Stone Shovel
+Stone Slab
+Stone Stairs
+Stone Sword
+Stonecutter
+Stonecutter (legacy)‌[Bedrock Edition only]
+Stray
+Strider
+String
+Stripped Acacia Log
+Stripped Acacia Wood
+Stripped Birch Log
+Stripped Birch Wood
+Stripped Crimson Hyphae
+Stripped Crimson Stem
+Stripped Dark Oak Log
+Stripped Dark Oak Wood
+Stripped Jungle Log
+Stripped Jungle Wood
+Stripped Mangrove Log
+Stripped Mangrove Wood
+Stripped Oak Log
+Stripped Oak Wood
+Stripped Spruce Log
+Stripped Spruce Wood
+Stripped Warped Hyphae
+Stripped Warped Stem
+Stronghold
+Sugar
+Sugar Cane
+Sunflower
+Sunflower Plains
+Suspicious Stew
+Swamp
+Swamp Hills
+Swamp Hut
+Sweeping Edge
+Sweet Berries
+Sweet Berry Bush
+Taiga
+Taiga Hills
+Taiga Mountains
+Tall Birch Forest
+Tall Birch Hills
+Tall Grass
+Tall Seagrass
+Target
+Terracotta
+The End
+The Nether
+Thorns
+Tinted Glass
+Tipped Arrow
+TNT
+Torch
+Totem of Undying
+Trader Llama
+Trapped Chest
+Trident
+Tripwire
+Tripwire Hook
+Tropical Fish
+Tube Coral
+Tube Coral Block
+Tube Coral Fan
+Tuff
+Turtle
+Turtle Egg
+Turtle Shell
+Twisting Vines
+Unbreaking
+Verdant Froglight
+Vex
+Village
+Villager
+Vindicator
+Vines
+Wandering Trader
+Warm Ocean
+Warped Button
+Warped Door
+Warped Fence
+Warped Fence Gate
+Warped Forest
+Warped Fungus
+Warped Fungus on a Stick
+Warped Hyphae
+Warped Nylium
+Warped Planks
+Warped Pressure Plate
+Warped Roots
+Warped Sign
+Warped Slab
+Warped Stairs
+Warped Stem
+Warped Trapdoor
+Warped Wart Block
+Water
+Water Bucket
+Weathered Copper
+Weathered Cut Copper
+Weathered Cut Copper Slab
+Weathered Cut Copper Stairs
+Weeping Vines
+Wet Sponge
+Wheat
+Wheat Crops
+Wheat Seeds
+White Banner
+White Bed
+White Candle
+White Carpet
+White Concrete
+White Concrete Powder
+White Dye
+White Glazed Terracotta
+White Shulker Box
+White Stained Glass
+White Stained Glass Pane
+White Terracotta
+White Tulip
+White Wool
+Witch
+Wither
+Wither Rose
+Wither Skeleton
+Wither Skeleton Skull
+Wither Skull
+Wolf
+Wooded Badlands Plateau
+Wooded Hills
+Wooded Mountains
+Wooden Axe
+Wooden Hoe
+Wooden Pickaxe
+Wooden Shovel
+Wooden Sword
+Woodland Mansion
+Written Book
+Yellow Banner
+Yellow Bed
+Yellow Candle
+Yellow Carpet
+Yellow Concrete
+Yellow Concrete Powder
+Yellow Dye
+Yellow Glazed Terracotta
+Yellow Shulker Box
+Yellow Stained Glass
+Yellow Stained Glass Pane
+Yellow Terracotta
+Yellow Wool
+Zoglin
+Zombie
+Zombie Head
+Zombie Horse
+Zombie Villager
+Zombified Piglin
