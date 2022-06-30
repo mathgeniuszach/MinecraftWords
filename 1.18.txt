@@ -760,7 +760,6 @@ Nether Fossil
 Nether Gold Ore
 Nether Quartz
 Nether Quartz Ore
-Nether Reactor Core‌[Bedrock Edition only]
 Nether Sprouts
 Nether Star
 Nether Wart
@@ -1106,7 +1105,6 @@ Stone Slab
 Stone Stairs
 Stone Sword
 Stonecutter
-Stonecutter (legacy)‌[Bedrock Edition only]
 Stray
 Strider
 String
