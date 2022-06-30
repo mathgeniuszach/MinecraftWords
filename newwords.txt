@@ -594,7 +594,6 @@ Ladder
 Lantern
 Lapis Lazuli
 Lapis Lazuli Ore
-Large Amethyst Bud
 Large Fern
 Lava
 Lava Bucket
@@ -693,8 +692,7 @@ Mangrove Slab
 Mangrove Stairs
 Mangrove Trapdoor
 Mangrove Wood
-Map or Explorer Map
-Medium Amethyst Bud
+Map
 Melon
 Melon Seeds
 Melon Slice
@@ -1026,7 +1024,6 @@ Skeleton Skull
 Slime
 Slime Block
 Slimeball
-Small Amethyst Bud
 Small Dripleaf
 Smite
 Smithing Table
