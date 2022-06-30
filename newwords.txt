@@ -381,7 +381,6 @@ Dried Kelp Block
 Dripstone Block
 Dropper
 Drowned
-Echo Shard
 Efficiency
 Egg
 Elder Guardian
@@ -441,7 +440,6 @@ Flowering Azalea Leaves
 Forest
 Fortune
 Fox
-Frogspawn
 Frost Walker
 Frozen Ocean
 Frozen River
@@ -676,22 +674,6 @@ Magenta Wool
 Magma Block
 Magma Cream
 Magma Cube
-Mangrove Boat
-Mangrove Button
-Mangrove Door
-Mangrove Fence
-Mangrove Fence Gate
-Mangrove Leaves
-Mangrove Log
-Mangrove Planks
-Mangrove Pressure Plate
-Mangrove Propagule
-Mangrove Roots
-Mangrove Sign
-Mangrove Slab
-Mangrove Stairs
-Mangrove Trapdoor
-Mangrove Wood
 Map
 Melon
 Melon Seeds
@@ -796,7 +778,6 @@ Ocean
 Ocean Monument
 Ocean Ruins
 Ocelot
-Ochre Froglight
 Ominous Banner
 Orange Banner
 Orange Bed
@@ -824,7 +805,6 @@ Painting
 Panda
 Paper
 Parrot
-Pearlescent Froglight
 Peony
 Petrified Oak Slab
 Phantom
@@ -996,11 +976,6 @@ Sandstone Wall
 Savanna
 Savanna Plateau
 Scaffolding
-Sculk
-Sculk Catalyst
-Sculk Sensor
-Sculk Shrieker
-Sculk Vein
 Scute
 Sea Lantern
 Sea Pickle
@@ -1166,7 +1141,6 @@ Turtle Egg
 Turtle Shell
 Twisting Vines
 Unbreaking
-Verdant Froglight
 Vex
 Village
 Villager
